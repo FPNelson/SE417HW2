@@ -1,6 +1,6 @@
 public class HelloWorld
 {
-  public String printHelloWorld()
+  public static String printHelloWorld()
   {
     return "Hello World";
   }
